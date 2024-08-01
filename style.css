@@ -1,0 +1,33 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(184, 184, 184);
+}
+
+h1{ 
+    background-color: rgb(100, 127, 247);
+    color: black;
+    border-radius: 15%;
+}
+
+h2 {
+    background-color: rgb(100, 127, 247);
+    color: black;
+    border-radius: 15%;
+    
+}
+
+#ingredientes-macarrones{ 
+    font-weight: 800;
+    color: black;
+}
+
+#ingredientes-lasana {
+    color: black;
+    font-weight: 800;
+ 
+}
+
+#ingredientes-patatas { 
+    font-weight: 800;
+    color: black;
+}
